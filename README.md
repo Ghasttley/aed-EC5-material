@@ -18,19 +18,20 @@
 ### Estructura del repositorio
 
 ```
-# Contenido actualizado el 27/10/2026
+# Contenido actualizado el 28/10/2026
 ├── grafos/
-|   ├── ....cpp
-|   ├── ....cpp
-|   ├── ....cpp
-|   ├── ....cpp
-|   └──  ....cpp
+|   ├── Jarras.cpp
+|   ├── Terreno.cpp
+|   ├── AmigosComunes.cpp # to be fixed
+|   ├── AgendaContactos.cpp # to be fixed
+|   ├── CablesServidores.cpp
+|   ├── SeguidoresMutuos.cpp
+|   └── PuentesKonigsberg.cpp
 ├── bfs/
-|   ├── ....cpp
-|   ├── ....cpp
-|   ├── ....cpp
-|   ├── ....cpp
-|   └── ....cpp
+|   ├── implicit.cpp # to be fixed
+|   ├── laberinto.cpp
+|   ├── rivalteams.cpp # to be fixed
+|   └── multisource.cpp
 ├── .gitignore # excluye la carpeta .vscode con la configuración y los ejercicios no terminados
 └── README.md
 ```
