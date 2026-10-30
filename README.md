@@ -32,6 +32,14 @@
 |   ├── laberinto.cpp
 |   ├── rivalteams.cpp # to be fixed
 |   └── multisource.cpp
+├── refs/ # mostly for visual references
+|   ├── bfs03.cpp
+|   └── Teoria14-DFS-BFS.pdf
 ├── .gitignore # excluye la carpeta .vscode con la configuración y los ejercicios no terminados
+├── bfs.cpp
 └── README.md
 ```
+
+> **Nota**: el archivo `bfs.cpp` fue armado a partir del ppt de bfs y dfs de programación III (2026-1).
+>
+> Además, los archivos referenciales utilizados se encuentran en la carpeta `refs/`.
